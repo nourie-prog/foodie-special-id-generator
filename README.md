@@ -19,4 +19,4 @@ Program ini merupakan Mini Project P1 yang dibuat menggunakan bahasa C untuk men
 Program hanya menggunakan stdio.h.
 
 ## Screenshot Hasil Running
-Lampirkan screenshot hasil running program di sini.
+![Hasil run](Screenshot-hasil-run.png)
